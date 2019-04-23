@@ -1,0 +1,36 @@
+# Translations for 中文
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Translations"
+
+[postAvailable]
+other = "Also available in"
+
+
+# 404.html
+#
+[archives]
+other = "博客归档"
+
+[home]
+other = "主页"
+
+[notFound]
+other = "非常抱歉,您要找的页面丢失了"
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "1"
+other = "大约 {{ .Count }} 分钟左右"
+
+[tableOfContents]
+other = "文章目录"
+
+[wordCount]
+one   = "1个字"
+other = "本文共 {{ .Count }} 字"
